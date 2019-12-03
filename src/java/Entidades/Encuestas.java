@@ -21,6 +21,8 @@ public class Encuestas {
     @Column (name="creador")
     private String creador;
 
+    //Qué onda qué pex
+    
     public Encuestas(){
         
     }
